@@ -1,8 +1,14 @@
-img{
-    float: right;
-    
+
+body{
+    overflow: hidden;
 }
-.row{
-    padding-left: 200px;
+body {
+    background-color: lightblue;
+  }
+.sidebar{
+    background-color: aqua;
+}
+.row > *{
+    padding: 0 !important;
 }
 

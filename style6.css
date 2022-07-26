@@ -1,0 +1,15 @@
+body{
+    background-image: url(https://cdn.wallpapersafari.com/80/56/da7Ry2.jpg);
+    background-repeat: no-repeat;
+}
+
+div{
+    text-align: center;
+    color:white ;
+}
+span{
+    color: darkred;
+}
+.khd{
+    align-items: baseline;
+}
